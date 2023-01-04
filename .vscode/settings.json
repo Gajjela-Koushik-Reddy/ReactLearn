@@ -3,5 +3,6 @@
     "*.js": "javascriptreact"
     },
     "javascript.format.enable": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "remimarsal.prettier-now"
 }

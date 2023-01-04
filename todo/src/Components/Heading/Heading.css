@@ -1,0 +1,10 @@
+.Heading-center {
+    /* margin auto centers the element horizontally */
+    margin: 1% auto;
+    width: 75%;
+    /* height: 150px; */
+    border: 3px solid black;
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+.todoform-button-style:hover {
+    box-shadow: 2px 2px 2px black;
+}
+
+.todoform-button-style:active {
+    box-shadow: 3px 3px 3px black;
+}
+
+.todoform-button-style {
+    border-radius: 10px;
+    width: 40%;
+    height: 40px;
+}
+
+.todoform-style {
+    display: grid;
+    border-radius: 10%;
+    margin: 20px 10px;
+    grid-template-columns: 80% 20%;
+    /* background: aliceblue; */
+}
+
+.todoform-style__input:focus {
+    outline: none;
+    box-shadow: 3px 3px 3px black;
+}
+
+.todoform-style__input {
+    font-size: larger;
+    border-radius: 10px;
+    width: 90%;
+    height: 40px;
+    margin: 0% auto;
+    border-color: black;
+}

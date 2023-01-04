@@ -1,0 +1,42 @@
+.todo-center {
+    /* margin auto centers the element horizontally */
+    margin: 2% auto;
+    width: 80%;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: large;
+    padding: 10px;
+}
+
+.center-text {
+    /* text-align: center; */
+    padding: 5px;
+    margin: auto;
+}
+
+.arrange-elements {
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.button-style__parent {
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    margin: auto;
+}
+
+.button-style {
+    border-radius: 10%;
+    height: 20px;
+    width: 100px;
+    margin: 5px auto;
+}
+
+.button-style:hover {
+    box-shadow: 2px 2px 2px black;
+}
+
+.button-style:active {
+    box-shadow: 3px 3px 3px black;
+}

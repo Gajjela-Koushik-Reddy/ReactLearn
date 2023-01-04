@@ -1,0 +1,11 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    background-color: #404040;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #36454F;
+}
