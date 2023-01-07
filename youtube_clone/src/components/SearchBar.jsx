@@ -18,7 +18,7 @@ const SearchBar = () => {
 					mr: { sm: 5 }
 				}}
 			>
-				<input className="search-bar" placeholder="Search..." value="" onChange={() => {}} />
+				<input className="search-bar" placeholder="Search..." value="" onChange={() => {}}  />
 				<IconButton>
 					<Search />
 				</IconButton>
